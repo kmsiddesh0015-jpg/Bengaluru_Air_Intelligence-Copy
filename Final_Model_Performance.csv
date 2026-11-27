@@ -1,0 +1,4 @@
+Horizon,Selected Model,Test MAE,Test RMSE,Test R2
+1 Hour,Persistence,1.9849,3.8212,0.9823
+6 Hours,Persistence,7.2169,11.2783,0.8505
+24 Hours,Enhanced XGBoost,14.1341,18.8733,0.5853

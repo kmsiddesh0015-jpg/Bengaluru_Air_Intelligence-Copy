@@ -1,0 +1,9 @@
+gradio
+pandas
+numpy
+requests
+matplotlib
+folium
+scikit-learn
+xgboost
+joblib

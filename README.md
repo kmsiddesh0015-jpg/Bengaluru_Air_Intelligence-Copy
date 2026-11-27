@@ -12,6 +12,25 @@ The application contains four dashboards:
 4. **Citizen Insights** – AQI rankings, charts, hotspot mapping, pollutant comparisons, and descriptive insights.
 
 ## Dashboard Features
+## Dashboard Screenshots
+
+### 1. Station Forecasting
+![Station Forecasting](station_forecasting.png)
+
+### 2. Live Bengaluru AQI
+![Live Bengaluru AQI](live_bengaluru_aqi.png)
+
+### 3. Station Intelligence
+![Station Intelligence](station_intelligence.png)
+
+### 4. Citizen Insights
+![Citizen Insights](citizen_insights.png)
+
+## Live Demo
+
+**Try the application:** https://bengaluru-air-intelligence-copy.onrender.com
+
+**Source Code:** https://github.com/kmsiddesh0015-jpg/Bengaluru_Air_Intelligence-Copy
 
 ### 1. Station Forecasting
 - Historical AQI forecasting.
